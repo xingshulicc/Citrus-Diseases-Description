@@ -1,5 +1,5 @@
 # Citrus-Diseases-Description
-Description of 7 citrus diseases
+Description of 6 citrus diseases
 
 Citrus Canker:
 
