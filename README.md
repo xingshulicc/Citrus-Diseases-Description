@@ -9,6 +9,6 @@ Citrus Leafminer
 
 Sooty mold
 
-Anthracnose
+Citrus Anthracnose
 
-Melanose
+Citrus Melanose
