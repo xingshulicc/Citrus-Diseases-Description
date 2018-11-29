@@ -14,7 +14,7 @@ Citrus scab attacks the fruit, leaves, and twigs, producing slightly raised, irr
 Citrus Leafminer
 
 Symptoms and Impact:
-They mine the leaves of their host plant. The mine consists of a long epidermal corridor with a well-marked central frass line. The mine is mostly lower-surface, but sometimes upper-surface, and rarely on the rind of the developing fruit. citrus leafminer creates openings that allow for entry of citrus bacterial canker into the tree resulting in infection.
+They mine the leaves of their host plant. The mine consists of a long epidermal corridor with a well-marked central frass line. The mine is mostly lower-surface, but sometimes upper-surface, and rarely on the rind of the developing fruit. Citrus leafminer creates openings that allow for entry of citrus bacterial canker into the tree resulting in infection.
 
 Sooty mold
 
