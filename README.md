@@ -19,8 +19,14 @@ They mine the leaves of their host plant. The mine consists of a long epidermal 
 Sooty mold
 
 Symptoms and Impact:
-
+Sooty mold arrive as a secondary infestation which feeds on the honeydew defecated by insects. Plants become blackened and are usually sticky. The fungi involved are saprophytic, ie. they do not invade the plant tissues, but remain on the surface. The mold is difficult to remove and although it is not feeding on the plant, it restricts the light reaching the leaves, thus reducing photosynthesis. The initial cause is usually a sap-sucking insect like Aphids or Scale Insects. 
 
 Citrus Anthracnose
 
+Symptoms and Impact:
+Leaves display more or less circular spots of light tan color with a prominent purple margin. The center of these spots gradually turn grayish and, in the later phases of the infection, it may show tiny dispersed black flecks. Fruit symptoms are firm and dry, brown to black spots of 1.5 mm or slightly greater diameter. The impact of anthracnose on citrus include twig dieback, premature leaf drop, dark staining on fruit and postharvest fruit decay. 
+
 Citrus Melanose
+
+Symptoms and Impact:
+
