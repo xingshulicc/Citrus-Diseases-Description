@@ -29,4 +29,8 @@ Leaves display more or less circular spots of light tan color with a prominent p
 Citrus Melanose
 
 Symptoms and Impact:
+https://www.ijcmas.com/vol-3-4/K.Gopal,%20et%20al.pdf
 
+Symptoms on foliage begin as tiny water-soaked specks that become depressed in the center and surrounded by a translucent yellow area which is not depressed. Later, the leaf cuticle ruptures and a gummy substance is exuded which turns brown and hardens. The yellowish margin disappears and the hardened gummed areas will have a sandpaper-like texture.  Infected areas on the leaf may be scattered, aggregated, or in streaks, depending on where water transported the inoculums prior to infection.
+
+Fruit symptoms can vary depending on the age of the fruit at the time of infection. Early infections, will show relatively large pustules and when in large numbers they may coalesce to form extensive areas that often crack to produce a pattern described as "mudcake melanose". Infections during later stages of fruit development produce small discrete pustules distributed by spore-laden rain or dew which flows over the fruit surface creating the "tear-stain melanose" pattern. 
